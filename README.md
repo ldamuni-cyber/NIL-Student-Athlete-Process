@@ -4,6 +4,8 @@ A BPMN analysis of the Name, Image, and Likeness (NIL) deal process for college 
 
 ---
 
+
+
 ## Table of Contents
 
 - [Overview](#overview)
