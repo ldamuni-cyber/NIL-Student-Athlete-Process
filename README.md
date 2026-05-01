@@ -82,8 +82,4 @@ These improvements would make the NIL process more efficient, transparent, and m
 
 ## Diagram
 
-> BPMN process diagram available in the project files (`Untitled Diagram.drawio.svg`).
-
----
-
-*Project by Nia Adamuni — May 2025*
+> BPMN process diagram available in the project files (`file:///Users/niadamuni/Downloads/Untitled%20Diagram.drawio.svg`).
